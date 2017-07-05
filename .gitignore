@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+WIKI_PRICES.csv
+uci-news-aggregator.csv
